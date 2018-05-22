@@ -17,7 +17,7 @@ module.exports = {
     new UglifyJsPlugin({ sourceMap: true }),
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
-      title: 'JS Template',
+      title: 'Wikipedia Clone',
       template: './src/index.html',
       inject: 'body'
     })
@@ -52,7 +52,7 @@ module.exports = {
         use: ['html-loader']
       },
       {
-        test: /\.(gif|png|jpe?g)$/,
+        test: /\.(webp|svg|gif|png|jpe?g)$/,
         use: [
           {
             loader: 'file-loader',
