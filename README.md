@@ -1,14 +1,9 @@
-# JS Template Repo for Epicodus
+# Vice News Clone
 
-## By Bobby Martin
+## By Bobby Martin and Jessica Schmitz
 
 # Description
-This is a template directory to make things go quicker in the morning.
-
-# Specifications
-* The program will hold the necessary files and folders for easy cloning
-  * Input Example: **Example**
-  * Output Example: **Example**
+This project represents obtained knowledge using CSS Grid and Flexbox
 
 # Setup Requirements
 * Clone this repository
@@ -20,8 +15,6 @@ This is a template directory to make things go quicker in the morning.
 * CSS
 * JavaScript
 * Webpack
-* Jasmine
-* Karma
 
 This project uses the _MIT License_
 &copy; **Bobby Martin** 2018
